@@ -1,1 +1,2 @@
-# Project-ML-3-
+# Project-ML-3
+Welcome to the Heart Disease Prediction project repository! This project aims to develop a predictive model that can accurately detect the presence or absence of heart disease in individuals based on various medical attributes and risk factors. Whether you're a healthcare professional, data scientist, or enthusiast in predictive analytics, this repository offers valuable resources to understand, build, and deploy predictive models for heart disease diagnosis.
